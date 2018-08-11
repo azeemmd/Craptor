@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<connections>
+    <connection name='Local-HBase'>
+        <dbtype>
+            phoenix
+        </dbtype>
+        <url>
+            jdbc:phoenix:localhost
+        </url>
+        <password>
+        </password>
+        <username>
+        </username>
+    </connection>
+</connections>
